@@ -29,11 +29,11 @@ This project helped me understand several core programming concepts:
 
 ## 🌐 Play the Game
 
-You can play the game here: [Insert your Scratch project link]
+https://scratch.mit.edu/projects/1194801593/
 
 ## 📸 Screenshot
 
-![screenshot](screenshot.png)
+https://github.com/joanovallesr/cs50-scratch-project/issues/1#issue-3203883900
 
 ---
 
